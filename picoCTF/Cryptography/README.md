@@ -3,4 +3,4 @@
 ------------
 
 - [Mind your Ps and Qs](./MindyourPsandQs.md)
-- [Mod 26](./Mod26.txt)
+- [Mod 26](./Mod26.md)
