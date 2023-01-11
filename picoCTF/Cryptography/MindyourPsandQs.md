@@ -1,3 +1,4 @@
+**Challenge**: [Mind your Ps and Qs](https://play.picoctf.org/practice/challenge/162)
 > When start the challenge it will send you a file contains some information:
 ```
 Decrypt my super sick RSA:
@@ -7,5 +8,5 @@ e: 65537
 ```
 > n is is the result of multiplying two prime numbers p and q (n = p * q) and c is the cipher, e is used to compute d. I solve this challenge by using [this link](https://www.dcode.fr/rsa-cipher). A lazy solution :))
 ```
-picoCTF{sma11_N_n0_g0od_45369387}
+Flag is: picoCTF{****************}
 ```
