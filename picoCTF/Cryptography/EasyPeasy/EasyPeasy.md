@@ -1,5 +1,10 @@
-**Challenge**: [Easy Peasy](https://play.picoctf.org/practice/challenge/125)
----------
+# Challenge: [Easy Peasy](https://play.picoctf.org/practice/challenge/125)
+40 Points
+# Description
+A one-time pad is unbreakable, but can you manage to recover the flag? (Wrap with picoCTF{})
+----------------------------------------------------------------
+Hints: Maybe there's a way to make this a 2x pad.
+# Solution
 When I start the challenge, I see the encrypted flag as below:
 ```console
 nano2222-picoctf@webshell:~$ nc mercury.picoctf.net 36449
