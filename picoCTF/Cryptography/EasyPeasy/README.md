@@ -65,7 +65,7 @@ while c >= 0:
 	c = encrypt(c)
 
 ```
-Temporarily, I understand that this programme has 2 function, startup() which is used to encrypt the flag I want to find and encrypt() which is used to encrypt input I enter. It uses XOR the flag with the key (both length is equal) and the rest of key is used to XOR with my input. A one-time pad is unbreakable but in this situation, it use the key again after each 50000 characters. 
+Temporarily, I understand that this programme has 2 function, startup() which is used to encrypt the flag I want to find and encrypt() which is used to encrypt input I enter. It uses XOR the flag with the key (both length is equal) and the rest of key is used to XOR with my input. A one-time pad is unbreakable but in this situation, it uses the key again after each 50000 characters. 
 First, I need the length of key, I can know it through the length of flag:
 ```console
 nano2222-picoctf@webshell:~$ python -c "print(len('551257106e1a52095f654f510a6b4954026c1e0304394100043a1c5654505b6b'))"
