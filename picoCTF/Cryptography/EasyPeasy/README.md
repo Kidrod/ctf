@@ -2,8 +2,6 @@
 40 Points
 # Description
 A one-time pad is unbreakable, but can you manage to recover the flag? (Wrap with picoCTF{})
-
-Hints: Maybe there's a way to make this a 2x pad.
 # Solution
 When I start the challenge, I see the encrypted flag as below:
 ```console
