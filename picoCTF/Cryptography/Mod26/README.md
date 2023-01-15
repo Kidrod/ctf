@@ -6,7 +6,7 @@ Cryptography can be easy, do you know what ROT13 is?
 ROT13 is a encrypt method that replaces a letter with the 13th letter after it in the alphabet.
 ``` 
 Example: A <-> N, B <-> O, C <-> P
-```
+```python
 Here is my source code:
 ```
 import codecs
