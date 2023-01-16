@@ -5,6 +5,7 @@ Retrieve the password of the Administrator user from the information output by t
 # Solution
 I found a clue to retrieve the password in the information of Dumping cached domain
 > ROOTME.LOCAL/Administrator:15a57c279ebdfea574ad1ff91eb6ef0c:Administrator
+
 To solve this, I used John The Ripper in Kali. Firstly, make a file contains the content of admin's password hashes
 ```console
 echo 'Administrator:15a57c279ebdfea574ad1ff91eb6ef0c' >> mscash
