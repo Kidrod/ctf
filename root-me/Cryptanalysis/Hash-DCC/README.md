@@ -15,4 +15,5 @@ Then, use John command like bellow
 john --format=mscash --wordlist=/usr/share/wordlists/rockyou.txt mscash
 ```
 **Note**: Before run the command, you need to decompress to have rockyou.txt in /usr/share/wordlists
+
 Flag is: **********
