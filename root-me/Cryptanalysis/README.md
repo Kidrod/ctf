@@ -4,3 +4,4 @@
 * [Encoding - UU](./Encoding-UU/README.md)
 * [Hash - DCC](./Hash-DCC/README.md)
 * [Hash - DCC2](./Hash-DCC2/README.md)
+* [Hash - LM](./Hash-LM/README.md)
