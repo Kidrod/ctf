@@ -13,16 +13,6 @@ Since I don't have a specialized hardware to use hashcat, I crack the LM hash by
                                                                                                                                                                                                                    
 ┌──(kali㉿kali)-[~/root-me/Cryptanalysis/lm]
 └─$ sudo john --format=LM --wordlist=/home/kali/rockyou.txt lmhash
-Using default input encoding: UTF-8
-Using default target encoding: CP850
-Loaded 1 password hash (LM [DES 128/128 AVX])
-Warning: poor OpenMP scalability for this hash type, consider --fork=4
-Will run 4 OpenMP threads
-Press 'q' or Ctrl-C to abort, almost any other key for status
-********          (?)
-1g 0:00:00:00 DONE (2023-01-17 00:41) 3.225g/s 5655Kp/s 5655Kc/s 5655KC/s ALVINS1..ADAMXOX
-Use the "--show --format=LM" options to display all of the cracked passwords reliably
-Session completed
 
 ```
 The flag is: ****************
