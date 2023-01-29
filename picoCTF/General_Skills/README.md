@@ -2,4 +2,4 @@
 --------
 - [Obedient Cat](./ObedientCat/README.md)
 - [Wave a flag](./Waveaflag/README.md)
-- [Python Wrangling](./Waveaflag/README.md)
+- [Python Wrangling](./PythonWrangling/README.md)
