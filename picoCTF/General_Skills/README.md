@@ -11,3 +11,4 @@
 - [Lets Warm Up](./LetsWarmUp/README.md)
 - [Warmed Up](./WarmedUp/README.md)
 - [2Warm](./2Warm/README.md)
+- [strings it](./stringsit/README.md)
