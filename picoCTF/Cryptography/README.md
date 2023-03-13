@@ -4,3 +4,4 @@
 - [Mind your Ps and Qs](./MindyourPsandQs/README.md)
 - [Easy Peasy](./EasyPeasy/README.md)
 - [13](./13/README.md)
+- [The Numbers](./TheNumbers/README.md)
