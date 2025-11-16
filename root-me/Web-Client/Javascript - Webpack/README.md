@@ -30,4 +30,4 @@ At this point I looked deeper into the project structure and noticed something m
 
 Webpack had generated .map files. These files are meant for debugging and contain the original, unminified source code, including comments and variable names.
 
-So I downloaded the **app.a92c5074dafac0cb6365.js.map** file and simply searched for keywords such as password or flag and found the real flag there.
+So I downloaded the **app.a92c5074dafac0cb6365.js.map** file and simply searched for keywords such as **password** or **flag** and found the real flag there.
