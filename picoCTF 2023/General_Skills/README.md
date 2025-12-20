@@ -2,3 +2,4 @@
 - [repetitions](./repetitions/README.md)
 - [useless](./useless/README.md)
 - [chrono](./chrono/README.md)
+- [Permissions](./Permissions/README.md)
