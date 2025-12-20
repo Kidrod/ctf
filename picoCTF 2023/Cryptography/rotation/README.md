@@ -1,5 +1,5 @@
 # Challenge: [rotation](https://play.picoctf.org/practice/challenge/373)
-5 Points
+20 Points
 # Description
 You will find the flag after decrypting this file
 # Solution
@@ -14,3 +14,4 @@ xqkwKBN{z0bib1wv_l3kzgxb3l_i4j7l759}
 
 Since the challenge name is **rotation**, I tested ROT ciphers by brute-forcing different rotation values. The flag was revealed 
 when applying ROT18.
+
