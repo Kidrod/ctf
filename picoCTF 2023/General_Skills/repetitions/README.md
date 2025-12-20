@@ -1,5 +1,5 @@
 # Challenge: [repetitions](https://play.picoctf.org/practice/challenge/371)
-5 Points
+20 Points
 # Description
 Can you make sense of this file?
 # Solution
@@ -16,4 +16,5 @@ aGkKYlRrelZERldUMkpzUWxWTlJYTkxDZz09Cg==
 ```
 
 I decoded the string repeatedly using base64 decoding until a readable flag format appeared.
+
 

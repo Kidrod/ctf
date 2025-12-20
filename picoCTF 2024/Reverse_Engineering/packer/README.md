@@ -1,5 +1,5 @@
 # Challenge: [packer](https://play.picoctf.org/practice/challenge/421)
-10 Points
+50 Points
 # Description
 Reverse this linux executable?
 # Solution
@@ -21,3 +21,4 @@ From the hint of this challenge, it mentioned how can we reduce the size of a bi
 Hence, I ran `upx -d` command to decompress the file, it worked. I checked the output of `strings` command again and found the hex string of password there.
 
 Finally, I used xxd command to decode the hex string and obtain the flag of this challenge.
+
