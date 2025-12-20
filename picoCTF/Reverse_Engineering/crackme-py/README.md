@@ -1,5 +1,5 @@
 # Challenge: [crackme-py](https://play.picoctf.org/practice/challenge/175)
-5 Points
+20 Points
 # Description
 Let inspect a given python file
 # Solution
@@ -41,3 +41,4 @@ decode_secret("A:4@r%uL`>0c0Abc?FE0g`_47fgaagg6ffN")
 ```
 
 After running the program, the decoded output was printed which revealed the flag.
+
