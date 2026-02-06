@@ -1,4 +1,4 @@
-# Challenge: TCP - Back to school
+# Challenge: [TCP - Back to school](https://www.root-me.org/en/Challenges/Programming/TCP-Back-to-school)
 5 pts
 # Description
 To start this test using the TCP protocol, you need to connect to a program on a network socket.
